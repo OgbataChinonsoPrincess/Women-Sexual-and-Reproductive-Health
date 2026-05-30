@@ -5,6 +5,8 @@ Project Overview.
 This project focuses on the analysis of maternal health risk data using Microsoft Power BI to identify patterns, trends, and clinical indicators associated with maternal risk levels across different patient groups.
 
 
+<img width="1090" height="610" alt="image" src="https://github.com/user-attachments/assets/acfbdb92-fef0-473f-ba62-a2a7e3db19d9" />
+
 
 The dashboard was designed to transform raw healthcare data into meaningful insights through interactive visualizations and healthcare-focused data storytelling techniques. The goal of the project was to better understand maternal risk distribution and support data-informed healthcare interpretation.
 
